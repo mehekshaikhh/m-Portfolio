@@ -68,7 +68,7 @@ const Hero = ({ language }: HeroProps) => {
   <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full blur-3xl opacity-30"></div>
 
   <img
-    src="public/mehekk.png"
+    src="/mehekk.png"
     alt="Mehek Shaikh"
     className="relative w-[350px] h-[350px] object-cover rounded-full border-4 border-purple-500 shadow-2xl"
   />
